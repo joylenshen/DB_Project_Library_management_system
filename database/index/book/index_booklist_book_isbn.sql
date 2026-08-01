@@ -1,1 +1,0 @@
-CREATE INDEX idx_booklist_book_isbn ON Booklist_Book(ISBN);
